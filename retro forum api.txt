@@ -1,0 +1,15 @@
+		API's
+
+latest post : https://openapi.programming-hero.com/api/retro-forum/latest-posts
+
+
+
+all posts : https://openapi.programming-hero.com/api/retro-forum/posts
+
+
+
+post by query : https://openapi.programming-hero.com/api/retro-forum/posts?category=categoryName
+
+
+
+example post by query : https://openapi.programming-hero.com/api/retro-forum/posts?category=coding
